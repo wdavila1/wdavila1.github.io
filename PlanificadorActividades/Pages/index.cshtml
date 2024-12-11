@@ -1,0 +1,154 @@
+@page
+@using PlanificadorActividades.EntityModels
+@model PlanificadorActividades.Pages.IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "PlanifiQ";
+    Layout = "_Layout";
+    ViewData["BodyClass"] = "";  // Aquí no agregamos 'inner_page'
+}
+         <!-- banner -->
+         <section class="banner_main">
+            <div id="myCarousel" class="carousel slide banner" data-ride="carousel">
+               <ol class="carousel-indicators">
+                  <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                  <li data-target="#myCarousel" data-slide-to="1"></li>
+                  <li data-target="#myCarousel" data-slide-to="2"></li>
+               </ol>
+               <div class="carousel-inner">
+                  <div class="carousel-item active">
+                     <div class="container">
+                        <div class="carousel-caption  banner_po">
+                           <div class="row">
+                              <div class="col-md-5">
+                                 <div class="yo_img">
+                                    <figure><img src="images/yo_img2.png" alt="#"/></figure>  
+                                 </div>
+                              </div>
+                              <div class="col-md-7">
+                                 <div class="planifiq_box">
+                                    <span>Comienza tu</span>
+                                    <h1><strong>P </strong>L <strong>A </strong>N </h1>
+                                    <a class="leer_mas planifiq_btn" href="/actividades" role="button">Actividades</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="carousel-item">
+                     <div class="container">
+                        <div class="carousel-caption banner_po">
+                           <div class="row">
+                              <div class="col-md-5">
+                                 <div class="yo_img">
+                                    <figure><img src="images/yo_img3.png" alt="#"/></figure>
+                                 </div>
+                              </div>
+                              <div class="col-md-7">
+                                 <div class="planifiq_box">
+                                    <span>Agrega tus</span><br>
+                                    <h1_tareas><strong>T </strong>A <strong>R </strong>E <strong>A </strong>S</h1_tareas>
+                                    <a class="leer_mas planifiq_btn" href="/tareas" role="button">TAREAS</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="carousel-item">
+                     <div class="container">
+                        <div class="carousel-caption banner_po">
+                           <div class="row">
+                              <div class="col-md-5">
+                                 <div class="yo_img">
+                                    <figure><img src="images/yo_img4.1.png" alt="#"/></figure>
+                                 </div>
+                              </div>
+                              <div class="col-md-7">
+                                 <div class="planifiq_box">
+                                    <span>Agrega</span><br>
+                                    <h1_tareas> <strong>P</strong>E<strong>R</strong>S<strong>O</strong>N<strong>A</strong>S</h1_tareas>
+                                    <a class="leer_mas planifiq_btn " href="/personas" role="button">PERSONAS</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+               <i class="fa fa-arrow-left" aria-hidden="true"></i>
+               <span class="sr-only">Previous</span>
+               </a>
+               <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+               <i class="fa fa-arrow-right" aria-hidden="true"></i>
+               <span class="sr-only">Next</span>
+               </a>
+            </div>
+         </section>
+      </header>
+      <!-- Finaliza banner -->
+      <!-- Actividades -->
+      <div class="classes">
+         <div class="container">
+            <div class="row">
+               <div class="col-sm-12">
+                  <div class="actividades-container">
+                     <!-- Título de la sección -->
+                     <h2 class="actividades-titulo">Actividades Próximas</h2>
+                     
+                     <!-- Descripción de la sección -->
+                     <p class="actividades-descripcion">
+                           Actividades próximas a partir de hoy @DateTime.Now.ToString("dd MMM yyyy"), hasta 1 mes adelante.
+                     </p>
+                     
+                     <!-- Lista de actividades -->
+                     <div class="actividades-lista">
+                           @foreach (var actividad in Model.ActividadesProximas)
+                           {
+                              <div class="actividad-card">
+                                 <a href="/VerPlan/@actividad.ActividadId" class="actividad-link">
+                                       <h3 class="actividad-nombre">@actividad.NombreActividad</h3>
+                                       <p class="actividad-fecha">@actividad.Fecha.ToString("dd MMM yyyy")</p>
+                                 </a>
+                              </div>
+                           }
+                     </div>
+                  </div>
+               </div>
+
+                     <div class="col-sm-12">
+                        <div class="imagen-sin-fondo">
+                           <figure><img src="/images/estudiante.jpg" alt="#"/></figure>
+                           <a class="leer_mas planifiq_btn" href="/actividades">Leer más</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Finaliza actividades -->
+      <!-- balance -->
+      <div class="balance">
+         <div class="container-fluid">
+            <div class="row d_flex">
+               <div class="col-md-5 padding_left0">
+                  <div class="planifiq_img">
+                     <figure><img src="/images/tarea.jpg" alt="#"/></figure>
+                  </div>
+               </div>
+               <div class="col-md-6 offset-md-1">
+                  <div class="titulopagina">
+                     <h2 class="padd_top30">Tareas</h2>
+                     <p>En esta sección podrás gestionar todas las tareas relacionadas con las actividades de tu planificación, desde visualizar tareas predefinidas y personalizadas, agregar nuevas según tus necesidades, buscar tareas rápidamente para facilitar su asignación o modificación, hasta configurar restricciones para evitar asignaciones indebidas, asegurando así una distribución eficiente y organizada.</p>
+                     <a class="leer_mas ye_b5n " href="/tareas">Tareas</a>  <!--Aun sin agregar lógica-->
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Termina balance -->
+      <br>
+      <br>
+      

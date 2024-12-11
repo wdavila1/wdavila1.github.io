@@ -1,0 +1,204 @@
+@functions {
+    public string IsActivePage(string pagePath)
+    {
+        var currentPage = Url.ActionContext.RouteData.Values["Page"]?.ToString()?.ToLower() ?? "";
+        return currentPage == pagePath.ToLower() ? "active" : "";
+    }
+
+    public string? NombreDiaSemana { get; set; }
+  public void OnGet()
+  {
+    @* NombreDiaSemana = DateTime.Now.DayOfWeek.ToString(); *@
+    ViewData["year"] = DateTime.Now.Year;
+    NombreDiaSemana = DateTime.Now.ToString("dddd");
+  }
+
+}
+<!DOCTYPE html>
+<html lang="es">
+
+    <head>
+        <!-- basico  -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <!-- Meta datos -->
+        <title>@ViewData["Title"]</title>
+        <meta name="NombreProyecto" content="PlanifiQ - Actividades">
+        <meta name="DescripcionProyecto" content="Proyecto para planificar actividades">
+        <meta name="MiembroEquipo1" content="Wilson Avila - wdavila@unah.hn">
+        <meta name="MiembroEquipo1" content="Jeancarlo Suares - jeancarlo.suares@unah.hn">
+        <meta name="team-member-3" content="Yadira Zepeda - yezepeda@unah.hn">
+        <!-- bootstrap css -->
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+        <!-- style css -->
+        <link rel="stylesheet" href="/css/style.css">
+        
+    </head>
+    <!-- body -->
+
+    <body class="main-layout@(ViewData["BodyClass"] ?? " inner_page")">
+
+        <!-- header -->
+        <header class="full_bg">
+            <!-- header inner -->
+            <div class="header">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
+                            <div class="full">
+                                <div class="center-desk">
+                                    <div class="logo">
+                                        <a href="/"><img src="/images/logo4.png" alt="Logo" /></a>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                            <nav class="navigation navbar navbar-expand-md navbar-dark ">
+                                <ul class="navbar-nav mr-auto">
+                                    <li class="nav-item">
+                                        <a class="nav-link @(IsActivePage("/Index"))" href="/">Inicio</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link @(IsActivePage("/Actividades"))"
+                                            href="/actividades">Actividades</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link @(IsActivePage("/Tareas"))" href="/tareas">Tareas</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link @(IsActivePage("/Personas"))" href="/personas">Personas</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link @(IsActivePage("/About"))" href="/about">Acerca de nosotros</a>
+                                    </li>
+                                </ul>
+                        </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            </div>
+
+             <!-- Condición: Si estamos en la página de inicio (Index), incluir contenido dentro del header -->
+        @if (ViewData["IsIndexPage"] != null && (bool)ViewData["IsIndexPage"])
+        {
+            <div class="header-content">
+                @RenderBody() 
+            </div>
+        }
+        
+
+
+        </header>
+        <!-- Finaliza header inner -->
+        <!-- Finaliza header -->
+
+        
+
+        <!-- Comienza "lógica"-->
+         <!-- Si no es la página de inicio, el contenido se coloca fuera del header -->
+
+           <div class="outside-header-content">
+                @RenderBody()
+            </div>
+
+        <!-- Finaliza seccion "Logica" -->
+
+
+
+        <!--  Inicia pie de pagina -->
+        <footer>
+            <div class="pie_pagina">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h3>Enlaces</h3>
+                            <ul class="link_menu">
+                                <li><a href="/">Inicio</a></li>
+                                <li><a href="/actividades">Actividades</a></li>
+                                <li><a href="/tareas">Tareas</a></li>
+                                <li><a href="/personas">Personas</a></li>
+                                <li><a href="/about">Acerca de nosotros</a></li>
+                            </ul>
+                        </div>
+                        <div class=" col-md-3">
+                            <h3>PlanifiQ</h3>
+                            <p class="many">
+                                Es una herramienta innovadora diseñada para organizar y gestionar tus actividades, tareas de
+                                manera eficiente. Ideal para mantener un seguimiento claro de tus compromisos, asignar
+                                responsabilidades, en un entorno fácil de usar.
+                            </p>
+                        </div>
+                        <div class="col-lg-3 offset-mdlg-2     col-md-4 offset-md-1">
+                            <h3>Contacto</h3>
+                            <ul class="conta">
+                                <li><i class="fa fa-map-marker" aria-hidden="true"></i> Tegucigalpa, UNAH CU</li>
+                                <li> <i class="fa fa-envelope" aria-hidden="true"></i><a href="#"> planifiq@gmail.com</a>
+                                </li>
+                                <li><i class="fa fa-mobile" aria-hidden="true"></i> Cel : +504 9681-1136</li>
+                                <li><i class="fa fa-mobile" aria-hidden="true"></i> Cel : +504 9472-3558</li>
+                                <li><i class="fa fa-mobile" aria-hidden="true"></i> Cel : +504 8893-5559</li>
+                            </ul>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="copyright">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-10 offset-md-1">
+                                <p>© @ViewData["year"] Todos los derechos reservados.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Finaliza pie de pagina-->
+        <!-- Archivos JS-->
+        <script src="/js/jquery.min.js"></script>
+        <script src="/js/bootstrap.bundle.min.js"></script>
+        <!-- sidebar -->
+        <script src="/js/custom.js"></script>
+    </body>
+</html>
+
+
+
+<!-- 
+Explicación de los Archivos CSS:
+
+1. bootstrap.min.css:
+   - Es una plantilla predeterminada proporcionada por el framework Bootstrap. 
+   - Contiene estilos predefinidos para facilitar el diseño responsivo y moderno de la interfaz. 
+   - Incluye clases para botones, formularios, tipografía, diseño de cuadrícula y más, que utilizamos en los archios ".cshtml".
+
+2. style.css:
+   - Archivo CSS que nosotros personalizamos para nuestro proyecto
+   - Contiene estilos distintos que por así decirlo complementan las clases de Bootstrap para ajustar el diseño a las necesidades del proyecto.
+
+Explicación de los Archivos JS:
+
+1. bootstrap.bundle.min.js:
+   - Es una plantilla predeterminada de Bootstrap.
+   - Incluye componentes interactivos de Bootstrap, como carruseles, modales y menús desplegables.
+   - Que en nuestro caso, solo lo incluimos, para que la interfaz se vea interactiva, con un carrusel.
+
+2. custom.js:
+   - Archivo JavaScript que nosotros personalizamos para este proyecto.
+   - Contiene la función para manejar la interacción del carrusel.
+
+3. jquery.min.js:
+   - Es una plantilla predeterminada y una biblioteca JavaScript ampliamente utilizada.
+   - Facilita la manipulación del DOM, manejo de eventos y solicitudes AJAX, simplificando tareas comunes en desarrollo web.
+   - Bootstrap depende de jQuery para su funcionalidad, por lo que obligatoriamente debíamos incluirlo en el proyecto.
+
+Versión de .NET Core que utilizamos en este proyecto:
+- .NET Core 9.0
+
+En conclusion solo usamos js, para colocar un carrusel que aparece en el index. y el Archivos de estilos y el framework bootstrap
+como plantilla predefinidas de css.
+-->

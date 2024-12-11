@@ -1,0 +1,214 @@
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:55:27.554 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__fechaActual_0='?' (DbType = DateTime), @__AddMonths_1='?' (DbType = DateTime)], CommandType='Text', CommandTimeout='30']
+      SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+      FROM "Actividades" AS "a"
+      WHERE "a"."Fecha" >= @__fechaActual_0 AND "a"."Fecha" <= @__AddMonths_1
+      ORDER BY "a"."Fecha" DESC
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:55:31.955 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__fechaActual_0='?' (DbType = DateTime), @__AddMonths_1='?' (DbType = DateTime)], CommandType='Text', CommandTimeout='30']
+      SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+      FROM "Actividades" AS "a"
+      WHERE "a"."Fecha" >= @__fechaActual_0 AND "a"."Fecha" <= @__AddMonths_1
+      ORDER BY "a"."Fecha" DESC
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:55:51.045 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+      FROM "Actividades" AS "a"
+      ORDER BY "a"."Fecha" DESC
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:55:51.213 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+      FROM "Actividades" AS "a"
+      ORDER BY "a"."Fecha" DESC
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:55:58.406 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."TareaId", "t"."NombreTarea", "t"."ResponsableId"
+      FROM "Tareas" AS "t"
+      ORDER BY "t"."NombreTarea"
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:55:58.505 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."TareaId", "t"."NombreTarea", "t"."ResponsableId"
+      FROM "Tareas" AS "t"
+      ORDER BY "t"."NombreTarea"
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:56:04.320 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "p"."PersonaId", "p"."NombrePersona"
+      FROM "Personas" AS "p"
+      ORDER BY "p"."NombrePersona"
+dbug: 5/12/2024 07:56:04.348 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "p"."PersonaId", "p"."NombrePersona"
+      FROM "Personas" AS "p"
+dbug: 5/12/2024 07:56:04.435 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+dbug: 5/12/2024 07:56:04.442 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+dbug: 5/12/2024 07:56:04.445 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+dbug: 5/12/2024 07:56:04.447 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+dbug: 5/12/2024 07:56:04.449 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:56:04.533 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "p"."PersonaId", "p"."NombrePersona"
+      FROM "Personas" AS "p"
+      ORDER BY "p"."NombrePersona"
+dbug: 5/12/2024 07:56:04.537 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "p"."PersonaId", "p"."NombrePersona"
+      FROM "Personas" AS "p"
+dbug: 5/12/2024 07:56:04.538 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+dbug: 5/12/2024 07:56:04.541 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+dbug: 5/12/2024 07:56:04.543 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+dbug: 5/12/2024 07:56:04.545 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+dbug: 5/12/2024 07:56:04.547 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__p_PersonaId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "t0"."TareaId", "t0"."NombreTarea", "t0"."ResponsableId"
+      FROM "TareaPersonas" AS "t"
+      INNER JOIN "Tareas" AS "t0" ON "t"."TareaId" = "t0"."TareaId"
+      WHERE "t"."PersonaId" = @__p_PersonaId_0
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:56:07.977 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+      FROM "Actividades" AS "a"
+      ORDER BY "a"."Fecha" DESC
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:56:08.040 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+      FROM "Actividades" AS "a"
+      ORDER BY "a"."Fecha" DESC
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:56:10.503 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__fechaActual_0='?' (DbType = DateTime), @__AddMonths_1='?' (DbType = DateTime)], CommandType='Text', CommandTimeout='30']
+      SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+      FROM "Actividades" AS "a"
+      WHERE "a"."Fecha" >= @__fechaActual_0 AND "a"."Fecha" <= @__AddMonths_1
+      ORDER BY "a"."Fecha" DESC
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:56:10.561 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__fechaActual_0='?' (DbType = DateTime), @__AddMonths_1='?' (DbType = DateTime)], CommandType='Text', CommandTimeout='30']
+      SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+      FROM "Actividades" AS "a"
+      WHERE "a"."Fecha" >= @__fechaActual_0 AND "a"."Fecha" <= @__AddMonths_1
+      ORDER BY "a"."Fecha" DESC
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:56:18.158 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "a1"."ActividadId", "a1"."Fecha", "a1"."NombreActividad", "s"."ActividadId", "s"."TareaId", "s"."PersonaId", "s"."TareaId0", "s"."NombreTarea", "s"."ResponsableId", "s"."PersonaId0", "s"."NombrePersona"
+      FROM (
+          SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+          FROM "Actividades" AS "a"
+          WHERE "a"."ActividadId" = @__id_0
+          LIMIT 1
+      ) AS "a1"
+      LEFT JOIN (
+          SELECT "a0"."ActividadId", "a0"."TareaId", "a0"."PersonaId", "t"."TareaId" AS "TareaId0", "t"."NombreTarea", "t"."ResponsableId", "p"."PersonaId" AS "PersonaId0", "p"."NombrePersona"
+          FROM "ActividadTareaPersonas" AS "a0"
+          INNER JOIN "Tareas" AS "t" ON "a0"."TareaId" = "t"."TareaId"
+          LEFT JOIN "Personas" AS "p" ON "a0"."PersonaId" = "p"."PersonaId"
+      ) AS "s" ON "a1"."ActividadId" = "s"."ActividadId"
+      ORDER BY "a1"."ActividadId", "s"."ActividadId", "s"."TareaId", "s"."TareaId0"
+dbug: 5/12/2024 07:56:18.215 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__tareasAsignadasIds_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."TareaId", "t"."NombreTarea", "t"."ResponsableId"
+      FROM "Tareas" AS "t"
+      WHERE "t"."TareaId" NOT IN (
+          SELECT "t0"."value"
+          FROM json_each(@__tareasAsignadasIds_0) AS "t0"
+      )
+      ORDER BY "t"."NombreTarea"
+dbug: 5/12/2024 07:56:18.231 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__personasAsignadasIds_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+      SELECT "p"."PersonaId", "p"."NombrePersona"
+      FROM "Personas" AS "p"
+      WHERE "p"."PersonaId" NOT IN (
+          SELECT "p0"."value"
+          FROM json_each(@__personasAsignadasIds_0) AS "p0"
+      )
+      ORDER BY "p"."NombrePersona"
+Ruta de la base de datos: C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.db
+dbug: 5/12/2024 07:56:18.292 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+      SELECT "a1"."ActividadId", "a1"."Fecha", "a1"."NombreActividad", "s"."ActividadId", "s"."TareaId", "s"."PersonaId", "s"."TareaId0", "s"."NombreTarea", "s"."ResponsableId", "s"."PersonaId0", "s"."NombrePersona"
+      FROM (
+          SELECT "a"."ActividadId", "a"."Fecha", "a"."NombreActividad"
+          FROM "Actividades" AS "a"
+          WHERE "a"."ActividadId" = @__id_0
+          LIMIT 1
+      ) AS "a1"
+      LEFT JOIN (
+          SELECT "a0"."ActividadId", "a0"."TareaId", "a0"."PersonaId", "t"."TareaId" AS "TareaId0", "t"."NombreTarea", "t"."ResponsableId", "p"."PersonaId" AS "PersonaId0", "p"."NombrePersona"
+          FROM "ActividadTareaPersonas" AS "a0"
+          INNER JOIN "Tareas" AS "t" ON "a0"."TareaId" = "t"."TareaId"
+          LEFT JOIN "Personas" AS "p" ON "a0"."PersonaId" = "p"."PersonaId"
+      ) AS "s" ON "a1"."ActividadId" = "s"."ActividadId"
+      ORDER BY "a1"."ActividadId", "s"."ActividadId", "s"."TareaId", "s"."TareaId0"
+dbug: 5/12/2024 07:56:18.295 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__tareasAsignadasIds_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+      SELECT "t"."TareaId", "t"."NombreTarea", "t"."ResponsableId"
+      FROM "Tareas" AS "t"
+      WHERE "t"."TareaId" NOT IN (
+          SELECT "t0"."value"
+          FROM json_each(@__tareasAsignadasIds_0) AS "t0"
+      )
+      ORDER BY "t"."NombreTarea"
+dbug: 5/12/2024 07:56:18.297 RelationalEventId.CommandExecuting[20100] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executing DbCommand [Parameters=[@__personasAsignadasIds_0='?' (Size = 9)], CommandType='Text', CommandTimeout='30']
+      SELECT "p"."PersonaId", "p"."NombrePersona"
+      FROM "Personas" AS "p"
+      WHERE "p"."PersonaId" NOT IN (
+          SELECT "p0"."value"
+          FROM json_each(@__personasAsignadasIds_0) AS "p0"
+      )
+      ORDER BY "p"."NombrePersona"

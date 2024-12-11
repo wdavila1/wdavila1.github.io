@@ -1,0 +1,100 @@
+@page
+@using PlanificadorActividades.EntityModels
+@model PlanificadorActividades.Pages.PersonasModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "PlanifiQ - Personas";
+    Layout = "_Layout";
+}
+<!-- Comienza lógica de "personas" -->
+<div class="back_re">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="title">
+               <h2>PERSONAS</h2>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Seccion Personas -->
+<div class="classes">
+   <div class="container">
+      <div class="row">
+         <div class="col-sm-12">
+            <div class="titulopagina">
+
+               <!-- Logica para personas -->
+
+               <!-- Mensaje de Error -->
+               @if (!string.IsNullOrEmpty(Model.MensajeError))
+               {
+                  <div class="alert alert-danger">@Model.MensajeError</div>
+               }
+
+               <!-- Tabla de personas -->
+               <table class="table table-bordered table-striped">
+                  <thead>
+                     <tr>
+                        <th>Acciones</th>
+                        <th>Nombre</th>
+                        <th>Tareas que no puede realizar</th>
+                        <th>Añadir Restricción</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     @foreach (var persona in Model.Personas)
+                     {
+                        <tr>
+                           <td>
+                              <form method="post" asp-page-handler="EliminarPersona">
+                                 <input type="hidden" name="id" value="@persona.PersonaId" />
+                                 <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                              </form>
+                           </td>
+                           <td>@persona.NombrePersona</td>
+                           <td>
+                              @if (Model.Restricciones.ContainsKey(persona.PersonaId))
+                              {
+                                 <ul>
+                                    @foreach (var tarea in Model.Restricciones[persona.PersonaId])
+                                    {
+                                       <li>@tarea.NombreTarea</li>
+                                    }
+                                 </ul>
+                              }
+                              else
+                              {
+                                 <span>Sin restricciones</span>
+                              }
+                           </td>
+                           <td>
+                              <a asp-page="/Restricciones" asp-route-id="@persona.PersonaId"
+                                 class="btn btn-primary btn-sm">Añadir Restricción</a>
+                           </td>
+                        </tr>
+                     }
+                  </tbody>
+               </table>
+
+               <!-- Formulario para agregar una persona -->
+               <div class="row justify-content-center mt-4">
+                  <div class="col-md-6">
+                     <h3>Agregar Persona</h3>
+                     <form method="post" asp-page-handler="AgregarPersona">
+                        <div class="form-group">
+                           <label for="nombrePersona">Nombre de la persona:</label>
+                           <input type="text" id="nombrePersona" name="NombrePersona" class="form-control" />
+                        </div>
+                        <button type="submit" class="btn btn-success mt-2">Agregar Persona</button>
+                     </form>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Finaliza seccion Personas-->

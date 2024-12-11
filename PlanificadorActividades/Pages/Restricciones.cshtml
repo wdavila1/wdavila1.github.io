@@ -1,0 +1,82 @@
+@page "{id:int}"
+@using PlanificadorActividades.EntityModels
+@model PlanificadorActividades.Pages.RestriccionesModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = $"Restricciones para {Model.Persona.NombrePersona}";
+    Layout = "_Layout";
+}
+<!--  Comienza lógica de "Restricciones" -->
+<div class="back_re">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="title">
+               <h2>Restricciones de Tareas para @Model.Persona.NombrePersona</h2>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Seccion "Restricciones" -->
+<div class="classes">
+   <div class="container">
+      <div class="row">
+         <div class="col-sm-12">
+            <div class="titulopagina">
+
+               @if (!string.IsNullOrEmpty(Model.MensajeError))
+               {
+                  <div class="alert alert-danger">@Model.MensajeError</div>
+               }
+
+               <!-- Tabla de Tareas Restringidas -->
+               <table class="table table-bordered table-striped">
+                  <thead>
+                     <tr>
+                        <th>Tarea</th>
+                        <th>Acción</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     @foreach (var tarea in Model.TareasRestringidas)
+                     {
+                        <tr>
+                           <td>@tarea.NombreTarea</td>
+                           <td>
+                              <form method="post" asp-page-handler="EliminarRestriccion">
+                                 <input type="hidden" name="id" value="@Model.Persona.PersonaId" />
+                                 <input type="hidden" name="tareaId" value="@tarea.TareaId" />
+                                 <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                              </form>
+                           </td>
+                        </tr>
+                     }
+                  </tbody>
+               </table>
+                  <div class="row justify-content-center mt-4">
+                     <div class="col-md-6">
+                        <!-- Formulario para Añadir Restricciones -->
+                        <h3>Añadir Restricción</h3>
+                        <form method="post" asp-page-handler="AgregarRestriccion">
+                           <input type="hidden" name="id" value="@Model.Persona.PersonaId" />
+                           <div class="form-group">
+                              <label for="tareaId">Seleccionar Tarea:</label>
+                              <select id="tareaId" name="TareaId" class="form-control">
+                                 @foreach (var tarea in Model.TareasDisponibles)
+                                 {
+                                    <option value="@tarea.TareaId">@tarea.NombreTarea</option>
+                                 }
+                              </select>
+                           </div>
+                           <button type="submit" class="btn btn-success mt-2">Añadir Restricción</button>
+                        </form>
+                     </div>
+                  </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Finaliza seccion "Restricciones" -->

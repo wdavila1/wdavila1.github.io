@@ -1,0 +1,131 @@
+@page "{id:int}"
+@using PlanificadorActividades.EntityModels
+@model PlanificadorActividades.Pages.VerPlanModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = $"Actividad: {Model.Actividad.NombreActividad}";
+    Layout = "_Layout";
+}
+<!--  Comienza lógica de "Ver Plan" -->
+<div class="back_re">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="title">
+               <h2>Actividad: @Model.Actividad.NombreActividad (@Model.Actividad.Fecha.ToShortDateString())</h2>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Seccion "Ver Plan" -->
+<div class="classes">
+   <div class="container">
+      <div class="row">
+         <div class="col-sm-12">
+            <div class="titulopagina">
+
+               <!-- Mensaje de error -->
+               @if (!string.IsNullOrEmpty(Model.MensajeError))
+               {
+                  <div class="alert alert-danger">@Model.MensajeError</div>
+               }
+
+               <!-- Tabla de tareas asignadas -->
+               <table class="table table-bordered table-striped">
+                  <thead>
+                     <tr>
+                        <th>Acción</th>
+                        <th>Tarea</th>
+                        <th>Responsable</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     @foreach (var atp in Model.ActividadTareas)
+                     {
+                        <tr>
+                           <td>
+                              <form method="post" asp-page-handler="EliminarTarea">
+                                 <input type="hidden" name="actividadId" value="@Model.Actividad.ActividadId" />
+                                 <input type="hidden" name="tareaId" value="@atp.TareaId" />
+                                 <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                              </form>
+
+                           </td>
+                           <td>@atp.Tarea.NombreTarea</td>
+                           <td>
+                              @if (atp.Persona != null)
+                              {
+                                 @atp.Persona.NombrePersona
+                              }
+                              else
+                              {
+                                 <em>Sin asignar</em>
+                              }
+                           </td>
+                        </tr>
+                     }
+                  </tbody>
+               </table>
+               <br>
+                  <!-- Búsqueda y adición de tareas -->
+                  <div class="row justify-content-center mt-4">
+                     <div class="col-md-6">
+                        <h3>Buscar y Añadir Tarea</h3>
+                        <form method="post" asp-page-handler="AgregarTarea">
+                              <div class="form-group">
+                                 <label for="TareaNombre">Buscar Tarea:</label>
+                                 <input type="text" id="TareaNombre" name="TareaNombre" class="form-control" list="tareasList"
+                                    autocomplete="off" />
+                                 <datalist id="tareasList">
+                                    @foreach (var tarea in Model.TareasDisponibles)
+                                    {
+                                       <option value="@tarea.NombreTarea">@tarea.NombreTarea</option>
+                                    }
+                                 </datalist>
+                              </div>
+                           <button type="submit" class="btn btn-success mt-2">Añadir Tarea</button>
+                        </form>
+                     
+                        <br>
+                        <!-- Botón para asignar responsables -->
+                        <h3>Asignar Responsable</h3>
+                        <form method="post" asp-page-handler="AsignarResponsable">
+                           <input type="hidden" name="actividadId" value="@Model.Actividad.ActividadId" />
+                           <div class="form-group">
+                              <label for="tareaId">Seleccionar Tarea:</label>
+                              <select id="tareaId" name="tareaId" class="form-control">
+                                 @foreach (var tarea in Model.ActividadTareas.Where(atp => atp.Persona == null))
+                                 {
+                                    <option value="@tarea.TareaId">@tarea.Tarea.NombreTarea</option>
+                                 }
+                              </select>
+                           </div>
+                           <button type="submit" class="btn btn-success mt-2">Asignar responsable</button>
+                        </form>
+                     </div>
+                  </div>
+
+
+               <!-- Búsqueda y adición de tareas 
+                     <h3>Buscar y Añadir Tarea</h3>
+                     <form method="post" asp-page-handler="AgregarTarea">
+                        <div class="form-group">
+                           <label for="TareaNombre">Buscar Tarea:</label>
+                           <input type="text" id="TareaNombre" name="TareaNombre" class="form-control" list="tareasList" />
+                           <datalist id="tareasList">
+               @foreach (var tarea in Model.TareasDisponibles)
+               {
+                                       <option value="@tarea.NombreTarea">@tarea.NombreTarea</option>
+               }
+                           </datalist>
+                        </div>
+                        <button type="submit" class="btn btn-primary mt-2">Añadir Tarea</button>
+                     </form>
+                     -->
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Finaliza seccion "Ver Plan" -->

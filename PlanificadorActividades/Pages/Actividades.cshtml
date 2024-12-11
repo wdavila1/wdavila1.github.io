@@ -1,0 +1,97 @@
+@page
+@using PlanificadorActividades.EntityModels
+@model PlanificadorActividades.Pages.ActividadesModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+   ViewData["Title"] = "PlanifiQ - Actividades";
+   Layout = "_Layout";
+}
+ <!-- Comienza lógica de actividades -->
+<div class="back_re">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="title">
+                  <h2>ACTIVIDADES</h2>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Seccion Actividades -->
+<div class="classes">
+   <div class="container-fluid">
+      <div class="row">
+         <div class="col-md-6 offset-md-3">
+            <div class="titulopagina">
+               <!-- Lógica-->
+               <!-- Tabla de Actividades -->
+                  <div class="actividades_list">
+                     <div class="container">
+                             <div class="row">
+                              <div class="col-md-12">
+                                  <!-- Filtro de actividades -->
+                                    <div>
+                                       <form method="post" asp-page-handler="FiltrarActividades">
+                                          <label for="fechaFiltro">Mostrar solo actividades posteriores a:</label>
+                                          <input type="date" id="fechaFiltro" name="FechaFiltro" class="form-control" />
+                                          <br>
+                                          <button type="submit" class="btn btn-info btn-md">Filtrar</button>
+                                       </form>
+                                    </div>
+                                    <br>
+                                    <br>
+
+                                    <!-- Tabla de actividades -->
+                                    <table class="table table-striped">
+                                       <thead>
+                                          <tr>
+                                             <th>Acción</th>
+                                             <th>Fecha</th>
+                                             <th>Nombre</th>
+                                             <th>Ver plan</th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          @foreach (var actividad in Model.Actividades)
+                                          {
+                                             <tr>
+                                                <td>
+                                                   <form method="post" asp-page-handler="EliminarActividad">
+                                                      <input type="hidden" name="actividadId" value="@actividad.ActividadId" />
+                                                      <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                                                   </form>
+                                                </td>
+                                                <td>@actividad.Fecha.ToString("dd/MM/yyyy")</td>
+                                                   <td>@actividad.NombreActividad</td>
+                                                   <td>
+                                                   <a href="/VerPlan/@actividad.ActividadId" class="btn btn-primary mt-2">Ver plan</a>
+                                                </td>
+                                             </tr>
+                                          }
+                                       </tbody>
+                                    </table>
+
+                                    <!-- Formulario para agregar actividad -->
+                                    <h3>Agregar nueva actividad</h3>
+                                    <form method="post" asp-page-handler="AgregarActividad">
+                                       <div class="form-group">
+                                          <label for="nombreActividad">Nombre de la actividad:</label>
+                                          <input type="text" id="nombreActividad" name="NombreActividad" class="form-control" required />
+                                       </div>
+                                       <div class="form-group">
+                                          <label for="fechaActividad">Fecha de la actividad:</label>
+                                          <input type="date" id="fechaActividad" name="FechaActividad" class="form-control" required />
+                                       </div>
+                                       <button type="submit" class="btn btn-success mt-2">Agregar actividad</button>
+                                    </form>
+                              </div>
+                           </div>
+                     </div>
+                  </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Finaliza lógica de actividades -->

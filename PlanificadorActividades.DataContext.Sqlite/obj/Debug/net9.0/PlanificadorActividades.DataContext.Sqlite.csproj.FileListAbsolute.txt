@@ -1,0 +1,75 @@
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.deps.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\Planific.A813D26C.Up2Date
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\refint\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\ref\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.deps.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\Planific.A813D26C.Up2Date
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\refint\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\ref\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.deps.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\Planific.A813D26C.Up2Date
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\refint\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\ref\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.deps.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\Planific.A813D26C.Up2Date
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\refint\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\ref\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.deps.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.AssemblyInfo.cs
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\Planific.A813D26C.Up2Date
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\refint\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades.DataContext.Sqlite\obj\Debug\net9.0\ref\PlanificadorActividades.DataContext.Sqlite.dll

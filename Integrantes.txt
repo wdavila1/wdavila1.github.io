@@ -1,0 +1,8 @@
+Grupo #2 
+
+Integrantes del Grupo:
+1. Wilson Daniel Avila Flores, wdavila@unah.hn
+2. Jeancarlo Suares, jeancarlo.suares@unah.hn
+3. Yadira Zepeda, yezepeda@unah.hn
+
+Versión de .NET core utilizada: 9.0.0

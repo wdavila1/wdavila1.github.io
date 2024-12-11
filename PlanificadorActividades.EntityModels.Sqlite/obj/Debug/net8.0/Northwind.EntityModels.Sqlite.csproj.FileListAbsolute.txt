@@ -1,0 +1,28 @@
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/bin/Debug/net8.0/Northwind.EntityModels.Sqlite.deps.json
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/bin/Debug/net8.0/Northwind.EntityModels.Sqlite.runtimeconfig.json
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/bin/Debug/net8.0/Northwind.EntityModels.Sqlite.dll
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/bin/Debug/net8.0/Northwind.EntityModels.Sqlite.pdb
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/Northwind.EntityModels.Sqlite.csproj.AssemblyReference.cache
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/Northwind.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/Northwind.EntityModels.Sqlite.AssemblyInfoInputs.cache
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/Northwind.EntityModels.Sqlite.AssemblyInfo.cs
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/Northwind.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/Northwind.EntityModels.Sqlite.dll
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/refint/Northwind.EntityModels.Sqlite.dll
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/Northwind.EntityModels.Sqlite.pdb
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/Northwind.EntityModels.Sqlite.genruntimeconfig.cache
+/home/raul/Documents/Teaching/POO/Shared/CodeExamples/Semana 08/PracticalApps/Northwind.EntityModels.Sqlite/obj/Debug/net8.0/ref/Northwind.EntityModels.Sqlite.dll
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.deps.json
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.runtimeconfig.json
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\bin\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.AssemblyInfo.cs
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.dll
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\refint\Northwind.EntityModels.Sqlite.dll
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.pdb
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\Northwind.EntityModels.Sqlite.genruntimeconfig.cache
+C:\Users\Dell\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\II UNIDAD\Semana 08\PracticalApps\Northwind.EntityModels.Sqlite\obj\Debug\net8.0\ref\Northwind.EntityModels.Sqlite.dll

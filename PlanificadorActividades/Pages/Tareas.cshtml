@@ -1,0 +1,70 @@
+@page
+@using PlanificadorActividades.EntityModels
+@model PlanificadorActividades.Pages.TareasModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "PlanifiQ - Tareas";
+    Layout = "_Layout";
+}
+<!--  Comienza lógica de "Tareas" -->
+<div class="back_re">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-12">
+            <div class="title">
+               <h2>TAREAS</h2>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Seccion Tareas -->
+<div class="classes">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-6 offset-md-3">
+            <div class="titulopagina">
+               <!-- Lógica -->
+               <!-- Mostrar mensajes de error -->
+               @if (!string.IsNullOrEmpty(Model.MensajeError))
+               {
+                  <div class="alert alert-danger">@Model.MensajeError</div>
+               }
+
+               <table class="table table-striped">
+                  <thead>
+                     <tr>
+                        <th>Acciones</th>
+                        <th>Nombre</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     @foreach (var tarea in Model.Tareas)
+                     {
+                        <tr>
+                           <td>
+                              <form method="post" asp-page-handler="EliminarTarea">
+                                 <input type="hidden" name="id" value="@tarea.TareaId" />
+                                 <button type="submit" class="btn btn-danger btn-sm">Eliminar</button>
+                              </form>
+
+                           </td>
+                           <td>@tarea.NombreTarea</td>
+                        </tr>
+                     }
+                  </tbody>
+               </table>
+
+               <form method="post" asp-page-handler="AgregarTarea">
+                  <div class="form-group">
+                     <label for="nombreTarea">Nombre de la tarea:</label>
+                     <input type="text" id="nombreTarea" name="NombreTarea" class="form-control" />
+                  </div><br>
+                  <button type="submit" class="btn btn-success mt-2">Agregar tarea</button>
+               </form>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+<!-- Finaliza seccion tareas -->

@@ -1,0 +1,486 @@
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\appsettings.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.runtime.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.endpoints.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.exe
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.deps.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.runtimeconfig.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfo.cs
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cs
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\scopedcss\bundle\PlanificadorActividades.styles.css
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\wvs2zi9uy9-25hr4eawq6.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\d25lfg7kum-unp9dooynw.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\u46w60sshs-z2fjtvvg3j.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\l9904k2jk8-891o8bvwou.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\28sg8dq3b9-eajfz9w0dh.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\d2a4h3ddwi-wersp95m2w.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\0c38843uln-7toodq6opp.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\3q66leapbx-w05kbre3yz.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\4wenbf82jj-80izylb65r.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\6i3epz1z75-cuzucbncgs.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\gqvkv74gpa-4tpv3hbvas.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\870phgtui1-ke4mfrzjse.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\l0tm88gcn8-08ud60bff0.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\t2cymkjgmp-95h3mbexme.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\c3gv7568qf-rf9f4pws8w.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\23qls4xea1-gs0r5y6ya0.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\slgy3kjzue-0fqsv5ug6a.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mabh5mabcu-fc1z5xan7m.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\njvbx54m73-sgkdqzioi7.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\a993ww9oyy-ml4kyr084e.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\lefirc9vbp-gz7nqirg3m.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\egkanx1dze-n0a9nzuu5d.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\w22hlpkbjt-143fu57ksk.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\3yp9bdv62n-j9lm6j452t.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ml6a3f4fkp-6mdvqq15ah.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mzye6qjsbu-812y86e6bc.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\2sya2mgf0i-5ipweew5fc.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\0zlz66hz19-dosqy3kf6t.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\fr4n5t186g-sgabxu717i.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\r5m9wd6hyl-sf2i2snyp9.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\dsyghjql52-adabmdsfiy.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\nuf4jnamlf-x8hr5sh2bq.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\9opjmuxn73-gc7hr46aer.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\6alxhlh3kn-q8r0r1445w.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\td2xm3lycp-r8zfz17evh.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\6sfbnpp3lc-bsp2r8k2wz.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\9eidgibogc-tcgnozj6e0.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ujg867ts3l-swcv2kgnr7.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mdugt0gepu-6hbnkpdvey.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\3qry7jff6i-t4tixjzgvc.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\x2a41zzkrf-g5rfrp92zg.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ppk2tj6idw-jdpnbaa6vo.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\xukdv868u6-bcfyq1dao8.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\c9a3heisux-vrpdzult64.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\53vr1alpo1-fziaa4kh9t.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\qz2q4f0z73-52a1b1mbg1.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\4rlxp0kqur-yw1ulr8449.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\lzu650txtg-hh83kderra.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\kq3oxdry71-0qxh1pp4zd.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\bm2tufes2r-9x4qp4vvwk.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\kod9b2rqsg-wkp3nmgjze.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\0gk9u7jiyu-pnvqar1p7q.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\g0no5ofh8f-47jgnykt2u.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\1owrc2vpvh-e8xt7in1rd.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mgfws3uwrq-6uubclcp3x.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\v2q5hulz55-2gysm852hd.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\wvs781j7qi-zo8mewm6dt.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\id1mv1agpj-hqhv3aebxa.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ldddvn7ojf-joln5az4jw.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\k62pf5dkft-wqw1q0fcj8.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\6e7l2eydcu-mp3o9djxu0.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\yuuegnceg0-7ont3t3xn9.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\w3usv5tu3z-qxqydngynb.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\h5aue6lxhy-8nxq5fny9k.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\qa242b2mjv-s8iidknve1.gz
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.build.PlanificadorActividades.props
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PlanificadorActividades.props
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PlanificadorActividades.props
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\Planific.C063376E.Up2Date
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\refint\PlanificadorActividades.dll
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.genruntimeconfig.cache
+C:\Users\Dell\Documents\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\ref\PlanificadorActividades.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\appsettings.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.endpoints.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.runtime.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.exe
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.deps.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.runtimeconfig.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfo.cs
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cs
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\scopedcss\bundle\PlanificadorActividades.styles.css
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\wvs2zi9uy9-25hr4eawq6.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\d25lfg7kum-unp9dooynw.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\u46w60sshs-z2fjtvvg3j.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\l9904k2jk8-891o8bvwou.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\28sg8dq3b9-eajfz9w0dh.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\d2a4h3ddwi-wersp95m2w.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\0c38843uln-7toodq6opp.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\3q66leapbx-w05kbre3yz.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\4wenbf82jj-80izylb65r.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\6i3epz1z75-cuzucbncgs.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\gqvkv74gpa-4tpv3hbvas.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\870phgtui1-ke4mfrzjse.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\l0tm88gcn8-08ud60bff0.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\t2cymkjgmp-95h3mbexme.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\c3gv7568qf-rf9f4pws8w.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\23qls4xea1-gs0r5y6ya0.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\slgy3kjzue-0fqsv5ug6a.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mabh5mabcu-fc1z5xan7m.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\njvbx54m73-sgkdqzioi7.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\a993ww9oyy-ml4kyr084e.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\lefirc9vbp-gz7nqirg3m.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\egkanx1dze-n0a9nzuu5d.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\w22hlpkbjt-143fu57ksk.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\3yp9bdv62n-j9lm6j452t.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ml6a3f4fkp-6mdvqq15ah.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mzye6qjsbu-812y86e6bc.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\2sya2mgf0i-5ipweew5fc.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\0zlz66hz19-dosqy3kf6t.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\fr4n5t186g-sgabxu717i.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\r5m9wd6hyl-sf2i2snyp9.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\dsyghjql52-adabmdsfiy.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\nuf4jnamlf-x8hr5sh2bq.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\9opjmuxn73-gc7hr46aer.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\6alxhlh3kn-q8r0r1445w.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\td2xm3lycp-r8zfz17evh.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\6sfbnpp3lc-bsp2r8k2wz.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\9eidgibogc-tcgnozj6e0.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ujg867ts3l-swcv2kgnr7.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mdugt0gepu-6hbnkpdvey.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\3qry7jff6i-t4tixjzgvc.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\x2a41zzkrf-g5rfrp92zg.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ppk2tj6idw-jdpnbaa6vo.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\xukdv868u6-bcfyq1dao8.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\c9a3heisux-vrpdzult64.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\53vr1alpo1-fziaa4kh9t.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\qz2q4f0z73-52a1b1mbg1.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\4rlxp0kqur-yw1ulr8449.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\lzu650txtg-hh83kderra.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\kq3oxdry71-0qxh1pp4zd.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\bm2tufes2r-9x4qp4vvwk.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\kod9b2rqsg-wkp3nmgjze.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\0gk9u7jiyu-pnvqar1p7q.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\g0no5ofh8f-47jgnykt2u.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\1owrc2vpvh-e8xt7in1rd.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mgfws3uwrq-6uubclcp3x.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\v2q5hulz55-2gysm852hd.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\wvs781j7qi-zo8mewm6dt.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\id1mv1agpj-hqhv3aebxa.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ldddvn7ojf-joln5az4jw.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\k62pf5dkft-wqw1q0fcj8.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\6e7l2eydcu-mp3o9djxu0.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\yuuegnceg0-7ont3t3xn9.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\w3usv5tu3z-qxqydngynb.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\h5aue6lxhy-8nxq5fny9k.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\qa242b2mjv-s8iidknve1.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.build.PlanificadorActividades.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PlanificadorActividades.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PlanificadorActividades.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\Planific.C063376E.Up2Date
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\refint\PlanificadorActividades.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.genruntimeconfig.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\PC SARA\Documentos\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\ref\PlanificadorActividades.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\appsettings.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.runtime.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.endpoints.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.exe
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.deps.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.runtimeconfig.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\scopedcss\bundle\PlanificadorActividades.styles.css
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\compressed\0zlz66hz19-dosqy3kf6t.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\compressed\fr4n5t186g-sgabxu717i.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.build.PlanificadorActividades.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PlanificadorActividades.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PlanificadorActividades.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\Planific.C063376E.Up2Date
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\refint\PlanificadorActividades.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.genruntimeconfig.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\ref\PlanificadorActividades.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\compressed\nuf4jnamlf-x8hr5sh2bq.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\compressed\x2a41zzkrf-g5rfrp92zg.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\compressed\870phgtui1-ke4mfrzjse.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\compressed\ujg867ts3l-fb46dkodu6.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO2\PlanificadorActividades\obj\Debug\net9.0\compressed\mzye6qjsbu-wmhqiash0r.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\appsettings.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.endpoints.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.runtime.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.exe
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.deps.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.runtimeconfig.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cs
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\scopedcss\bundle\PlanificadorActividades.styles.css
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\870phgtui1-ke4mfrzjse.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mzye6qjsbu-wmhqiash0r.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\0zlz66hz19-dosqy3kf6t.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\fr4n5t186g-sgabxu717i.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\nuf4jnamlf-x8hr5sh2bq.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ujg867ts3l-fb46dkodu6.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\x2a41zzkrf-g5rfrp92zg.gz
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.build.PlanificadorActividades.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PlanificadorActividades.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PlanificadorActividades.props
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\Planific.C063376E.Up2Date
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\refint\PlanificadorActividades.dll
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.genruntimeconfig.cache
+C:\Users\roger\OneDrive\Escritorio\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\ref\PlanificadorActividades.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\appsettings.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.endpoints.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.staticwebassets.runtime.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.exe
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.deps.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.runtimeconfig.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Data.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.core.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.DataContext.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\bin\Debug\net9.0\PlanificadorActividades.EntityModels.Sqlite.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.AssemblyReference.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfoInputs.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.AssemblyInfo.cs
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.csproj.CoreCompileInputs.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.RazorAssemblyInfo.cs
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\scopedcss\bundle\PlanificadorActividades.styles.css
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\870phgtui1-ke4mfrzjse.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\mzye6qjsbu-wmhqiash0r.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\0zlz66hz19-dosqy3kf6t.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\fr4n5t186g-sgabxu717i.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\nuf4jnamlf-x8hr5sh2bq.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\ujg867ts3l-fb46dkodu6.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\compressed\x2a41zzkrf-g5rfrp92zg.gz
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.PlanificadorActividades.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.build.PlanificadorActividades.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.PlanificadorActividades.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.PlanificadorActividades.props
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\Planific.C063376E.Up2Date
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\refint\PlanificadorActividades.dll
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.pdb
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\PlanificadorActividades.genruntimeconfig.cache
+C:\Users\roger\OneDrive - Universidad Nacional Autónoma de Honduras\UNAH\3 Año\III PAC\POO\Proyecto\Proyecto POO\PlanificadorActividades\obj\Debug\net9.0\ref\PlanificadorActividades.dll
